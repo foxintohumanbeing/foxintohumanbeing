@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huihan Yang @foxintohumanbeing.
-- 📫 Reach me with 120090438@link.cuhk.edu.cn
+- 📫 Reach me with huihan.yang.baruchmfe@gmail.com
 
 <!---
 foxintohumanbeing/foxintohumanbeing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
